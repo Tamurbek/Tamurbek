@@ -28,32 +28,6 @@ On this GitLab page, you will witness my exciting technological journey! Here, y
 
 ---
 
-## 💎 My Exciting Projects
-Below you will find some of my most impressive projects. Each project is based on innovative approaches, speed, and reliability!
-
-### 🚀 1. **[Project Name]**
-   - **📝 Description:** Brief information about the project
-   - **🛠 Technologies:** Laravel, MySQL, Docker
-   - **⚙ Installation:**
-     ```bash
-     git clone https://gitlab.com/user/project.git
-     cd project
-     docker-compose up -d
-     ```
-
-### 🌟 2. **[Another Project]**
-   - **✨ Description:** Information about the project
-   - **🛠 Technologies:** Java Spring Boot, PostgreSQL
-   - **⚙ Installation:**
-     ```bash
-     git clone https://gitlab.com/user/another-project.git
-     cd another-project
-     mvn clean install
-     java -jar target/app.jar
-     ```
-
----
-
 ## 🌍 Contact Me
 - 🏆 **GitLab:** [GitLab Profile](https://gitlab.com/username)
 - ✉ **Email:** example@email.com
