@@ -29,8 +29,8 @@ On this GitLab page, you will witness my exciting technological journey! Here, y
 ---
 
 ## 🌍 Contact Me
-- 🏆 **GitLab:** [GitLab Profile](https://gitlab.com/username)
-- ✉ **Email:** example@email.com
-- 💼 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/username)
+- 🏆 **GitLab:** [GitLab Profile](https://gitlab.com/Tamurbek)
+- ✉ **Email:** temuryoldoshev10@gmail.com
+- 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/temur-yo-ldoshev-4588a8236/)
 
 If you like my work or want to collaborate, feel free to reach out! 🌟🚀
